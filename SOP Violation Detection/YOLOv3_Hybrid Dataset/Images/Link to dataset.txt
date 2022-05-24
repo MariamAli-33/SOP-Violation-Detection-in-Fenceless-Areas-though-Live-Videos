@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
+https://www.kaggle.com/datasets/mariamali333/labelled-face-mask-dataset-of-cctv-footage

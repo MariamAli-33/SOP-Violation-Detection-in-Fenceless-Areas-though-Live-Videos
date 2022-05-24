@@ -1,0 +1,5 @@
+classes = 2
+train = C:\Users\Ayesha\darknet\build\darknet\x64\FYP_Model1\Images\Data/train.txt
+valid = C:\Users\Ayesha\darknet\build\darknet\x64\FYP_Model1\Images\Data/test.txt
+names = C:\Users\Ayesha\darknet\build\darknet\x64\FYP_Model1\Images\Data/classes.names
+backup = backup
